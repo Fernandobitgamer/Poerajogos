@@ -1,0 +1,8 @@
+echo "# Poerajogos" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Fernandobitgamer/Poerajogos.git
+git push -u origin main
+                <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1w6cGFS9kpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
